@@ -126,6 +126,8 @@ class Q_and_A():
 qa = Q_and_A("This is for a machine learning interview")
 qa.ask_quesiton(0)
 qa.speak_answer()
+qa.ask_quesiton(0)
+
 
         
         
